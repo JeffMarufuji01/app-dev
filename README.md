@@ -18,8 +18,7 @@ My first repository
 3. It has a mix of **comedy**, **romance**, and **drama**.
 
 ## Favorite Quote
-> "I'll support you with everything I've got!"
-   - Yotsuba Nakano
+> "I'll support you with everything I've got!" - Yotsuba Nakano
 ##My Rating
 ⭐⭐⭐⭐⭐ (5/5)
 
