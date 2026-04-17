@@ -19,6 +19,7 @@ My first repository
 
 ## Favorite Quote
 > "I'll support you with everything I've got!" - Yotsuba Nakano
+
 ##My Rating
 ⭐⭐⭐⭐⭐ (5/5)
 
