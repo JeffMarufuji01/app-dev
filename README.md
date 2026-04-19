@@ -34,13 +34,15 @@ She is kind, cheerful, and always supports Fuutarou.
 4. Yotsuba is the one he met five years ago  
 ---
 
-### Code Example
-`favorite_character = "Yotsuba Nakano"`
+### Code 
+`favorite_girl = "Yotsuba Nakano"`
 
 ---
 
-### More Info
+### More Information
 [Read more here](https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets)
+[More] (https://myanimelist.net/anime/38101/5-toubun_no_Hanayome)
+
 
 ---
 
