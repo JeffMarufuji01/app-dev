@@ -40,8 +40,7 @@ She is kind, cheerful, and always supports Fuutarou.
 ---
 
 ### More Information
-[Read more here](https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets)
-[More](https://myanimelist.net/anime/38101/5-toubun_no_Hanayome)
+[Read more here](https://myanimelist.net/anime/38101/5-toubun_no_Hanayome)
 
 
 ---
