@@ -79,7 +79,7 @@ She is kind, cheerful, and always supports Fuutarou.
 
 
 ### Footnote
-Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote. [^1][^2]
 
 [^1]: Yotsuba is the one Fuutarou met five years ago.
 [^2]: The girl Fuutarou Uesugi met on the boat, whom he calls Rena, is Itsuki. Rena is actually the mother of the quintuplets.
