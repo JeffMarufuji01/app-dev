@@ -47,10 +47,10 @@ She is kind, cheerful, and always supports Fuutarou.
 ### Nakano Sisters
 ![Quintuplets]
 
-<img width="299" height="168" alt="images (7)" src="https://github.com/user-attachments/assets/8ab1d893-59af-4e47-92ff-fe9d0763d237" />
+<img width="640" height="360" alt="images (7)" src="https://github.com/user-attachments/assets/8ab1d893-59af-4e47-92ff-fe9d0763d237" />
 
 
-<img width="299" height="168" alt="the-quintessential-quintuplets-season-2-release-date-gotoubun-no-hanayome-manga-compared-to-the-5toubun-anime-spoilers_orig" src="https://github.com/user-attachments/assets/f204e360-cea6-4e4d-b001-7d52d98433df" />
+<img width="640" height="360" alt="the-quintessential-quintuplets-season-2-release-date-gotoubun-no-hanayome-manga-compared-to-the-5toubun-anime-spoilers_orig" src="https://github.com/user-attachments/assets/f204e360-cea6-4e4d-b001-7d52d98433df" />
 
 
 <img width="640" height="360" alt="filters_quality(95)format(webp)" src="https://github.com/user-attachments/assets/f0682f3a-00d3-464c-8bfa-5e0d08f68fda" />
