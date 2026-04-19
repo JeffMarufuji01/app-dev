@@ -58,9 +58,78 @@ She is kind, cheerful, and always supports Fuutarou.
 <img width="640" height="360" alt="filters_quality(95)format(webp) (1)" src="https://github.com/user-attachments/assets/0274d13d-d8ab-4b88-b7d2-c724ddd31893" />
 
 
+---
 
+### Table (Main Info)
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Title | The Quintessential Quintuplets |
+| Genre | Romance, Comedy |
+| Main Character | Fuutarou Uesugi |
+| Main Girls | Ichika, Nino, Miku, Yotsuba, Itsuki |
 
+---
+
+### Favorite Character List
+- [x] Yotsuba Nakano (My favorite)
+- [ ] Ichika Nakano
+- [ ] Nino Nakano
+- [ ] Miku Nakano
+- [ ] Itsuki Nakano
+
+---
+
+### Story Summary
+Fuutarou meets the quintuplets and helps them improve in school.  
+He changes his life after meeting the girl he met five years ago, and he still likes her.
+
+---
+
+### Important Note
+I need to highlight these ==five sisters are all different in personality== even though they are quintuplets.
+
+---
+
+### Math Style (Fun Use)
+Yotsuba = best girl  
+Fuutarou’s feelings = love^2^
+
+---
+
+### Chemistry Reference (just for style)
+Their bond is like H~2~O, always connected.
+
+---
+
+### Code 
+{
+"favorite_character": "Yotsuba Nakano",
+"reason": "Kind and supportive",
+"rating": 5
+}
+
+---
+
+### Footnote
+Yotsuba is the one who ends up with Fuutarou in the end. [^1]
+
+[^1]: This is based on the final storyline of the series.
+
+---
+
+### Emoji
+That ending was so good! :joy:
+
+---
+
+### Strikethrough Example
+~~Yotsuba is not important~~ → Yotsuba is the best girl
+
+---
+
+### Superscript Example
+Fuutarou’s love grows: x^2^
 
 
 
