@@ -45,8 +45,9 @@ She is kind, cheerful, and always supports Fuutarou.
 ---
 
 ### Nakano Sisters
-![Quintuplets]<img width="189" height="266" alt="images (8)" src="https://github.com/user-attachments/assets/a4800d20-fbc4-4b74-9680-bcf253a61d48" />
-<img width="732" height="331" alt="662652304_1543405777412044_9165919879436146113_n" src="https://github.com/user-attachments/assets/fd883631-a8a6-4287-86c8-17c0f040335d" />
+![Quintuplets]
+
+<img width="189" height="266" alt="images (8)" src="https://github.com/user-attachments/assets/a4800d20-fbc4-4b74-9680-bcf253a61d48" />
 
 <img width="1059" height="1531" alt="MV5BYjNhODUyODktMzAxYy00MjgwLTliYmMtMjkwNzQ5OTk3YjJiXkEyXkFqcGc@ _V1_" src="https://github.com/user-attachments/assets/52f3f026-be20-49c3-98f9-6bb67fbfc755" />
 
