@@ -62,7 +62,7 @@ She is kind, cheerful, and always supports Fuutarou.
 
 ### My Favorite Series {#custom-id}
 
-### Table
+### Anime Series
 | Syntax | Description |
 | ----------- | ----------- |
 | Title | The Quintessential Quintuplets |
@@ -72,8 +72,8 @@ She is kind, cheerful, and always supports Fuutarou.
 ### Fenced Code Block
 
 {
-"favorite_character": "Yotsuba Nakano",
-"reason": "She is kind, cheerful, and supportive",
+"favorite_girl ": "Yotsuba Nakano",
+"reason": "She is kind, cheerful, supportive, and athelic",
 "ending": "She ends up with Fuutarou"
 }
 
@@ -82,30 +82,32 @@ She is kind, cheerful, and always supports Fuutarou.
 Here's a sentence with a footnote. [^1]
 
 [^1]: Yotsuba is the one Fuutarou met five years ago.
+[^2]: The girl Fuutarou Uesugi met on the boat, whom he calls Rena, is Itsuki. Rena is actually the mother of the quintuplets.
 
 ### Definition List
 Fuutarou
-: The main character who tutors the quintuplets
+: The main character who tutors the quintuplets and ends up with Yotsuba, the fourth sister.
 
 Yotsuba
-: My favorite because she is my ideal type of girl
+: My favorite because she is my ideal type of girl. She is very kind, athletic, and supportive.
 
 ### Strikethrough
 ~~Yotsuba is not important~~
 
 ### Task List
 - [x] Watch the series  
-- [ ] Rewatch the anime  
-- [ ] Read the manga  
+- [x] Rewatch the anime  
+- [x] Read the manga
+- [x] Love the character
 
 ### Emoji
-That ending was so good! :joy:
+That ending was so good! 😿😹
 
 ### Highlight
-I need to highlight ==Yotsuba is the best among the five==.
+I need to highlight == Not just Yotsuba, but all of them are the best.==.
 
-### Subscript
-H~2~O
+Subscript:
+Nakano~5~ (five sisters)
 
-### Superscript
-X^2^
+Superscript:
+Love^5^ (love for all five)
