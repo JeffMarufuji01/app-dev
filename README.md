@@ -62,12 +62,14 @@ She is kind, cheerful, and always supports Fuutarou.
 
 ### My Favorite Series {#custom-id}
 
+### Table
 | Syntax | Description |
 | ----------- | ----------- |
 | Title | The Quintessential Quintuplets |
 | Genre | Romance and Comedy |
 | Favorite Character | Yotsuba Nakano |
 
+### Fenced Code Block
 
 {
 "favorite_character": "Yotsuba Nakano",
@@ -76,26 +78,34 @@ She is kind, cheerful, and always supports Fuutarou.
 }
 
 
+### Footnote
 Here's a sentence with a footnote. [^1]
 
 [^1]: Yotsuba is the one Fuutarou met five years ago.
 
+### Definition List
 Fuutarou
 : The main character who tutors the quintuplets
 
 Yotsuba
 : My favorite because she is my ideal type of girl
 
+### Strikethrough
 ~~Yotsuba is not important~~
 
+### Task List
 - [x] Watch the series  
 - [ ] Rewatch the anime  
 - [ ] Read the manga  
 
+### Emoji
 That ending was so good! :joy:
 
+### Highlight
 I need to highlight ==Yotsuba is the best among the five==.
 
+### Subscript
 H~2~O
 
+### Superscript
 X^2^
