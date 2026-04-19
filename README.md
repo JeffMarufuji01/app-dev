@@ -106,7 +106,7 @@ Yotsuba
 ---
 
 ### Emoji
-That ending was so good! 😿😹
+That ending was so good, and I’m glad he chose Yotsuba, my favorite girl.  😿😹
 
 ### Highlight
 I need to highlight == Not just Yotsuba, but all of them are the best.==.
