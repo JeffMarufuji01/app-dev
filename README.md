@@ -116,7 +116,6 @@ I need to highlight == Not just Yotsuba, but all of them are the best.==.
 Subscript:
 Nakano~5~ (five sisters)
 
----
 
 Superscript:
 Love^5^ (love for all five)
