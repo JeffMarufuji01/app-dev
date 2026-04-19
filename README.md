@@ -77,6 +77,7 @@ She is kind, cheerful, and always supports Fuutarou.
 "ending": "She ends up with Fuutarou"
 }
 
+---
 
 ### Footnote
 Here's a sentence with a footnote. [^1][^2]
@@ -94,11 +95,15 @@ Yotsuba
 ### Strikethrough
 ~~Yotsuba is not important~~
 
+---
+
 ### Task List
 - [x] Watch the series  
 - [x] Rewatch the anime  
 - [x] Read the manga
 - [x] Love the character
+
+---
 
 ### Emoji
 That ending was so good! 😿😹
@@ -106,8 +111,12 @@ That ending was so good! 😿😹
 ### Highlight
 I need to highlight == Not just Yotsuba, but all of them are the best.==.
 
+---
+
 Subscript:
 Nakano~5~ (five sisters)
+
+---
 
 Superscript:
 Love^5^ (love for all five)
