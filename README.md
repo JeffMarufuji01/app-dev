@@ -60,77 +60,65 @@ She is kind, cheerful, and always supports Fuutarou.
 
 ---
 
-### Table (Main Info)
-
+### Table
 | Syntax | Description |
 | ----------- | ----------- |
 | Title | The Quintessential Quintuplets |
 | Genre | Romance, Comedy |
-| Main Character | Fuutarou Uesugi |
-| Main Girls | Ichika, Nino, Miku, Yotsuba, Itsuki |
+| Favorite Character | Yotsuba Nakano |
 
 ---
 
-### Favorite Character List
-- [x] Yotsuba Nakano (My favorite)
-- [ ] Ichika Nakano
-- [ ] Nino Nakano
-- [ ] Miku Nakano
-- [ ] Itsuki Nakano
+### Definition List
+Fuutarou
+: The main character who tutors the quintuplets
+
+Yotsuba
+: The cheerful and supportive girl who ends up with Fuutarou
 
 ---
 
-### Story Summary
-Fuutarou meets the quintuplets and helps them improve in school.  
-He changes his life after meeting the girl he met five years ago, and he still likes her.
+### Task List
+- [x] Watch the anime
+- [x] Pick favorite character
+- [ ] Rewatch the series
+- [ ] Read the manga
 
 ---
 
 ### Important Note
-I need to highlight these ==five sisters are all different in personality== even though they are quintuplets.
+I need to highlight ==Yotsuba is my ideal type of girl==.
 
 ---
 
-### Math Style (Fun Use)
-Yotsuba = best girl  
-Fuutarou’s feelings = love^2^
-
----
-
-### Chemistry Reference (just for style)
-Their bond is like H~2~O, always connected.
-
----
-
-### Code 
-{
-"favorite_character": "Yotsuba Nakano",
-"reason": "Kind and supportive",
-"rating": 5
-}
-
----
-
-### Footnote
-Yotsuba is the one who ends up with Fuutarou in the end. [^1]
-
-[^1]: This is based on the final storyline of the series.
+### Strikethrough
+~~Yotsuba is not important~~ → Yotsuba is the best among the five
 
 ---
 
 ### Emoji
-That ending was so good! :joy:
+The ending made me happy :joy:
 
 ---
 
-### Strikethrough Example
-~~Yotsuba is not important~~ → Yotsuba is the best girl
+### Subscript and Superscript
+Love formula: H~2~O  
+Feelings grow: X^2^
 
 ---
 
-### Superscript Example
-Fuutarou’s love grows: x^2^
+### Code Block
+
+{
+"favorite_character": "Yotsuba Nakano",
+"reason": "She is kind and supportive",
+"ending": "She ends up with Fuutarou"
+}
 
 
+---
 
+### Footnote
+Yotsuba is the one he met five years ago. [^1]
 
+[^1]: This is revealed later in the story.
