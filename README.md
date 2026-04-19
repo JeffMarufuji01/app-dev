@@ -60,7 +60,7 @@ She is kind, cheerful, and always supports Fuutarou.
 
 ---
 
-### My Favorite Series {#custom-id}
+### My Favorite Series 
 
 ### Anime Series
 | Syntax | Description |
